@@ -1,0 +1,64 @@
+Funksiya salom_ber chaqirildi
+Args: ('Ali',)
+Kwargs: {'yosh': 25}
+
+Funksiya salom_ber chaqirildi
+Args: ('Vali',)
+Kwargs: {}
+
+Funksiya salom_ber chaqirildi
+Args: ('Ali',)
+Kwargs: {'yosh': 25}
+
+Funksiya salom_ber chaqirildi
+Args: ('Vali',)
+Kwargs: {}
+
+Funksiya salom_ber chaqirildi
+Args: ('Hasan',)
+Kwargs: {'yosh': 30}
+
+Funksiya salom_ber chaqirildi
+Args: ('Ali',)
+Kwargs: {'yosh': 25}
+
+Funksiya salom_ber chaqirildi
+Args: ('Ali',)
+Kwargs: {'yosh': 25}
+
+Funksiya salom_ber chaqirildi
+Args: ('Vali',)
+Kwargs: {}
+
+Funksiya salom_ber chaqirildi
+Args: ('Ali',)
+Kwargs: {'yosh': 25}
+
+Funksiya salom_ber chaqirildi
+Args: ('Ali',)
+Kwargs: {'yosh': 25}
+
+Funksiya salom_ber chaqirildi
+Args: ('Vali',)
+Kwargs: {}
+
+Funksiya salom_ber chaqirildi
+Args: ('Vali',)
+Kwargs: {}
+
+Funksiya salom_ber chaqirildi
+Args: ('Ali',)
+Kwargs: {'yosh': 25}
+
+Funksiya salom_ber chaqirildi
+Args: ('Ali',)
+Kwargs: {'yosh': 25}
+
+Funksiya salom_ber chaqirildi
+Args: ('Ali',)
+Kwargs: {'yosh': 25}
+
+Funksiya salom_ber chaqirildi
+Args: ('Ali',)
+Kwargs: {'yosh': 25}
+
